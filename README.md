@@ -1,4 +1,4 @@
-<h1>Minnie Guide</h1>
+<h1>User Guide</h1>
 User Guide for the Alexa skill 'Smart Minnie'
 
 <h2> Launch Intent </h2>
