@@ -4,7 +4,7 @@
 
 <body>
   <p> Welcome to the Smart Minnie user guide for Amazon Alexa! 
-  Here we give you some simple tips & tricks to help get you started
+  Here we give you some simple tips, tricks and examples to help get you started
   with Minnie on your Alexa-enabled device. </p>
   
   <p> Smart Minnie is an Alexa supported application to help you record
@@ -59,11 +59,27 @@
 
 <body>
   <p> Said something you didn't mean to? There are commands for that too! </p>
-  
+  <blockquote>
+    <p align = "center"> <i>"Cancel, Minnie"</i></p>
+    <p align = "center"> <i>"Cancel that"</i><p>
+    <p align = "center"> <i>"Hold on, Minnie"</i><p>
+  </blockquote>
 </body>
 
 <h2> Ask for Help </h2>
-<p> Description </p>
-
+<p> Stuck? Minnie can help you find your bearings. Just ask... </p>
+<blockquote>
+    <p align = "center"> <i>"Minnie help"</i></p>
+    <p align = "center"> <i>"Tell me about Minnie"</i><p>
+    <p align = "center"> <i>"List commands"</i><p>
+  </blockquote>
+  
 <h2> When you're done... </h2>
-<p> Description </p>
+<body>
+  <p> When the meeting is over (and Alexa hasn't drifted off to sleep) you can quickly close everything up and save your recordings for later. Here are just some ways of telling Minnie you're all done. </p>
+  <blockquote>
+    <p align = "center"> <i>"Stop Minnie"</i></p>
+    <p align = "center"> <i>"End meeting"</i><p>
+    <p align = "center"> <i>"That's it for today"</i><p>
+  </blockquote>
+</body>
