@@ -17,9 +17,11 @@
 
 <body>
   <p>Getting ready is easy! Just tell Alexa to wake up Smart Minnie. Here are some phrases to do just that.</p>
-  <blockquote><p align = "center"> <i>"Alexa, start Smart Minnie"</i></p>
-  <p align = "center"> <i>"Alexa, open</i> Smart Minnie"</i></p>
-  <p align = "center"> <i>"Alexa, launch</i> Smart Minnie"</i></p></blockquote>
+  <blockquote>
+    <p align = "center"> <i>"Alexa, start Smart Minnie"</i></p>
+    <p align = "center"> <i>"Alexa, open</i> Smart Minnie"</i></p>
+    <p align = "center"> <i>"Alexa, launch</i> Smart Minnie"</i>
+  </p></blockquote>
 </body>
 
 <head>
@@ -29,20 +31,26 @@
 <body> 
   <p> Once Minnie is ready, you'll receive a welcome message letting you know how to start recording those 
    important discussions. This can be done with a few simple words.</p>
-  <p align = "center"> <i>"Minnie begin"</i> </p>
-  <p align = "center"> <i>"Minnie start"</i> </p>
-  <p align = "center"> <i>"Minute this"</i> </p>
-  <p align = "center"> <i>"Record this"</i> </p>
+  <blockquote>
+    <p align = "center"> <i>"Minnie begin"</i> </p>
+    <p align = "center"> <i>"Minnie start"</i> </p>
+    <p align = "center"> <i>"Minute this"</i> </p>
+    <p align = "center"> <i>"Record this"</i> </p>
+  </blockquote>
   <br />
   <p>And Minnie stops recording just as easily.</p>
-  <p align = "center"> <i>"Minnie, pause</i>" </p>
-  <p align = "center"> <i>"Minnie, stop recording</i>" </p>
-  <p align = "center"> <i>"Okay. Let's move on"</i></p>
+  <blockquote>
+    <p align = "center"> <i>"Minnie, pause</i>" </p>
+    <p align = "center"> <i>"Minnie, stop recording</i>" </p>
+    <p align = "center"> <i>"Okay. Let's move on"</i></p>
+  </blockquote>
   <br />
   <p>Or if Alexa isn't listening and you want to jump straight in to the action:</p>
-  <p align = "center"> <i>"Alexa, tell Smart Minnie to record this</i>" </p>
-  <p align = "center"> <i>"Alexa, open Smart Minnie and start recording</i>" </p>
-  <p align = "center"> <i>"Alexa, tell Smart Minnie begin recording"</i> </p>
+  <blockquote>
+    <p align = "center"> <i>"Alexa, tell Smart Minnie to record this</i>" </p>
+    <p align = "center"> <i>"Alexa, open Smart Minnie and start recording</i>" </p>
+    <p align = "center"> <i>"Alexa, tell Smart Minnie begin recording"</i> </p>
+  </blockquote>
 </body>
 
 <head>
