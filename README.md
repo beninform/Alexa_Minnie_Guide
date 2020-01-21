@@ -36,10 +36,10 @@
   <p align = "center"> <i>"Minute this"</i> </p>
   <p align = "center"> <i>"Record this"</i> </p>
   <br />
-  <p>Or if Alexa isn't listening and you want to jump straight in to the action</p>
-  <p align = "center"> "Minnie begin" </p>
-  <p align = "center"> "Minnie start" </p>
-  <p align = "center"> "Minute this" </p>
+  <p>Or if Alexa isn't listening and you want to jump straight in to the action:</p>
+  <p align = "center"> "Alexa, <i>tell Smart Minnie to record this</i>" </p>
+  <p align = "center"> "Alexa, <i>open Smart Minnie and start recording</i>" </p>
+  <p align = "center"> "Alexa, <i>tell Smart Minnie begin recording"</i> </p>
   <p align = "center"> "Record this" </p>
 </body>
 
