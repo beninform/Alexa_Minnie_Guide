@@ -1,8 +1,13 @@
 <h1> Minnie User Guide </h1>
-User Guide for the Alexa skill 'Smart Minnie'
+<p> Welcome to the Smart Minnie user guide for Amazon Alexa! 
+Here we give you some simple tips & tricks to help get you started
+with Minnie on your Alexa-enabled device. </p>
+
+Smart Minnie is an Alexa supported application to help you record
+important points during your meetings! Let's take a look at how Minnie works.
 
 <h2> Starting Up </h2>
-<p> Description </p>
+<p>  </p>
 
 <h2> Recording </h2>
 <p> Description </p>
