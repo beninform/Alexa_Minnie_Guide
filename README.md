@@ -37,7 +37,7 @@
  </body>
  
  <head>
-   <h2> Recording </h2>
+   <h2> Recording Notes </h2>
  </head>
  
  <body> 
